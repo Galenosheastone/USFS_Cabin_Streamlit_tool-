@@ -1,0 +1,1681 @@
+{
+  "generated_on": "2026-04-15",
+  "region_type": "Montana National Forest units",
+  "all_montana_campgrounds": [
+    {
+      "id": "234318",
+      "name": "Antone Station",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/antone-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234318"
+    },
+    {
+      "id": "234319",
+      "name": "Bear Creek Bunkhouse",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bear-creek-bunkhouse",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234319"
+    },
+    {
+      "id": "234320",
+      "name": "Bear Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bear-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234320"
+    },
+    {
+      "id": "234406",
+      "name": "Birch Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/birch-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234406"
+    },
+    {
+      "id": "234364",
+      "name": "Black Butte Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/black-butte-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234364"
+    },
+    {
+      "id": "234392",
+      "name": "Bloody Dick Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bloody-dick-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234392"
+    },
+    {
+      "id": "234353",
+      "name": "Canyon Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/canyon-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234353"
+    },
+    {
+      "id": "234375",
+      "name": "Douglas Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/douglas-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234375"
+    },
+    {
+      "id": "234398",
+      "name": "Fleecer Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/fleecer-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234398"
+    },
+    {
+      "id": "234355",
+      "name": "Gordon Reese Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/gordon-reese-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234355"
+    },
+    {
+      "id": "234356",
+      "name": "Hells Canyon Guard Station",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/hells-canyon-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234356"
+    },
+    {
+      "id": "234397",
+      "name": "High Rye Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/high-rye-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234397"
+    },
+    {
+      "id": "234352",
+      "name": "Hogan Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/hogan-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234352"
+    },
+    {
+      "id": "234391",
+      "name": "Horse Prairie Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/horse-prairie-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234391"
+    },
+    {
+      "id": "234351",
+      "name": "May Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/may-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234351"
+    },
+    {
+      "id": "234373",
+      "name": "Moose Lake Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/moose-lake-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234373"
+    },
+    {
+      "id": "234377",
+      "name": "Racetrack Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/racetrack-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234377"
+    },
+    {
+      "id": "234378",
+      "name": "Stony Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/stony-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234378"
+    },
+    {
+      "id": "234350",
+      "name": "Twin Lakes Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/twin-lakes-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234350"
+    },
+    {
+      "id": "234322",
+      "name": "Wall Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/wall-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234322"
+    },
+    {
+      "id": "234372",
+      "name": "West Fork Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/west-fork-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234372"
+    },
+    {
+      "id": "234448",
+      "name": "West Fork of Rock Creek Cabin",
+      "forest": "Beaverhead-Deerlodge National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/west-fork-rock-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234448"
+    },
+    {
+      "id": "234278",
+      "name": "East Fork Cabin",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/east-fork-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234278"
+    },
+    {
+      "id": "234281",
+      "name": "Gird Point Lookout",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/gird-point-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234281"
+    },
+    {
+      "id": "234284",
+      "name": "Horse Heaven Cabin",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/horse-heaven-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234284"
+    },
+    {
+      "id": "10176101",
+      "name": "Lost Horse Guard Station",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/lost-horse-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10176101"
+    },
+    {
+      "id": "234301",
+      "name": "Magruder Ranger's House",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/magruder-rangers-house",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234301"
+    },
+    {
+      "id": "234292",
+      "name": "McCart Lookout",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/mccart-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234292"
+    },
+    {
+      "id": "234296",
+      "name": "Medicine Point Lookout",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/medicine-point-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234296"
+    },
+    {
+      "id": "234295",
+      "name": "Twogood Cabin",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/twogood-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234295"
+    },
+    {
+      "id": "234288",
+      "name": "Wood's Cabin",
+      "forest": "Bitterroot National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/woods-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234288"
+    },
+    {
+      "id": "234365",
+      "name": "Basin Station Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/basin-station-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234365"
+    },
+    {
+      "id": "234336",
+      "name": "Battle Ridge Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/battle-ridge-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234336"
+    },
+    {
+      "id": "234367",
+      "name": "Beaver Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/beaver-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234367"
+    },
+    {
+      "id": "234299",
+      "name": "Big Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/big-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234299"
+    },
+    {
+      "id": "234368",
+      "name": "Cabin Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/cabin-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234368"
+    },
+    {
+      "id": "234415",
+      "name": "Deer Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/deer-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234415"
+    },
+    {
+      "id": "234358",
+      "name": "Diamond Butte Lookout/Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/diamond-butte-lookoutcabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234358"
+    },
+    {
+      "id": "10192010",
+      "name": "Eldridge Guard Station",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/eldridge-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10192010"
+    },
+    {
+      "id": "234414",
+      "name": "Fourmile Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/fourmile-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234414"
+    },
+    {
+      "id": "234335",
+      "name": "Fox Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/fox-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234335"
+    },
+    {
+      "id": "234334",
+      "name": "Garnet Mountain Lookout",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/garnet-mountain-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234334"
+    },
+    {
+      "id": "234298",
+      "name": "Ibex Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/ibex-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234298"
+    },
+    {
+      "id": "234333",
+      "name": "Little Bear Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/little-bear-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234333"
+    },
+    {
+      "id": "234607",
+      "name": "Maxey Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/maxey-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234607"
+    },
+    {
+      "id": "234314",
+      "name": "Meyers Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/meyers-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234314"
+    },
+    {
+      "id": "234307",
+      "name": "Mill Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/mill-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234307"
+    },
+    {
+      "id": "234332",
+      "name": "Mystic Lake Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/mystic-lake-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234332"
+    },
+    {
+      "id": "234300",
+      "name": "Porcupine Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/porcupine-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234300"
+    },
+    {
+      "id": "10346418",
+      "name": "Sage Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/sage-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10346418"
+    },
+    {
+      "id": "234331",
+      "name": "Spanish Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/spanish-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234331"
+    },
+    {
+      "id": "234309",
+      "name": "Trail Creek Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/trail-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234309"
+    },
+    {
+      "id": "234366",
+      "name": "Wapiti Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/wapiti-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234366"
+    },
+    {
+      "id": "234410",
+      "name": "West Boulder Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/west-boulder-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234410"
+    },
+    {
+      "id": "234413",
+      "name": "West Bridger Station",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/west-bridger-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234413"
+    },
+    {
+      "id": "234359",
+      "name": "Whitetail Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/whitetail-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234359"
+    },
+    {
+      "id": "234328",
+      "name": "Window Rock Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/window-rock-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234328"
+    },
+    {
+      "id": "234327",
+      "name": "Windy Pass Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/windy-pass-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234327"
+    },
+    {
+      "id": "234326",
+      "name": "Yellow Mule Cabin",
+      "forest": "Custer Gallatin National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/yellow-mule-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234326"
+    },
+    {
+      "id": "253198",
+      "name": "Anna Creek Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/anna-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/253198"
+    },
+    {
+      "id": "234342",
+      "name": "Ben Rover Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ben-rover-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234342"
+    },
+    {
+      "id": "234340",
+      "name": "Challenge Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/challenge-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234340"
+    },
+    {
+      "id": "234337",
+      "name": "Ford Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ford-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234337"
+    },
+    {
+      "id": "234341",
+      "name": "Hornet Lookout Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/hornet-lookout-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234341"
+    },
+    {
+      "id": "234360",
+      "name": "Mission Lookout Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/mission-lookout-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234360"
+    },
+    {
+      "id": "234339",
+      "name": "Ninko Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ninko-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234339"
+    },
+    {
+      "id": "233271",
+      "name": "Old Condon Ranger Station",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/old-condon-ranger-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233271"
+    },
+    {
+      "id": "234379",
+      "name": "Owl Creek Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/owl-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234379"
+    },
+    {
+      "id": "234343",
+      "name": "Schnaus Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/schnaus-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234343"
+    },
+    {
+      "id": "233203",
+      "name": "Silvertip Cabin Rental Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/silvertip-cabin-rental-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233203"
+    },
+    {
+      "id": "234345",
+      "name": "Star Meadow Guard Station Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/star-meadow-guard-station-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234345"
+    },
+    {
+      "id": "233272",
+      "name": "Swan Guard Station",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/swan-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233272"
+    },
+    {
+      "id": "234511",
+      "name": "Wurtz Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/wurtz-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234511"
+    },
+    {
+      "id": "234338",
+      "name": "Zip's Place Cabin",
+      "forest": "Flathead National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/zips-place-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234338"
+    },
+    {
+      "id": "234567",
+      "name": "Bar Gulch Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/bar-gulch-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234567"
+    },
+    {
+      "id": "234409",
+      "name": "Calf Creek Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/calf-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234409"
+    },
+    {
+      "id": "234422",
+      "name": "Crystal Lake Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/crystal-lake-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234422"
+    },
+    {
+      "id": "234453",
+      "name": "Cummings Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/cummings-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234453"
+    },
+    {
+      "id": "234425",
+      "name": "Dry Wolf Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/dry-wolf-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234425"
+    },
+    {
+      "id": "234568",
+      "name": "Eagle Guard Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/eagle-guard-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234568"
+    },
+    {
+      "id": "10214301",
+      "name": "Ear Mountain Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/ear-mountain-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10214301"
+    },
+    {
+      "id": "234416",
+      "name": "Hunters Spring Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/hunters-spring-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234416"
+    },
+    {
+      "id": "234451",
+      "name": "Indian Flats Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/indian-flats-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234451"
+    },
+    {
+      "id": "234427",
+      "name": "Judith Guard Station Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/judith-guard-station-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234427"
+    },
+    {
+      "id": "234449",
+      "name": "Kading Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kading-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234449"
+    },
+    {
+      "id": "233229",
+      "name": "Kenck Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kenck-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233229"
+    },
+    {
+      "id": "234431",
+      "name": "Kings Hill Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kings-hill-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234431"
+    },
+    {
+      "id": "234428",
+      "name": "Monument Peak Lookout",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/monument-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234428"
+    },
+    {
+      "id": "233151",
+      "name": "Moose Creek Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/moose-creek-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233151"
+    },
+    {
+      "id": "234565",
+      "name": "Rillway Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/rillway-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234565"
+    },
+    {
+      "id": "234566",
+      "name": "Thompson Guard Station",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/thompson-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234566"
+    },
+    {
+      "id": "234418",
+      "name": "West Fork Cabin",
+      "forest": "Helena-Lewis and Clark National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/west-fork-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234418"
+    },
+    {
+      "id": "234399",
+      "name": "Big Creek Baldy Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/big-creek-baldy-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234399"
+    },
+    {
+      "id": "234793",
+      "name": "Fairview Ranger Station",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/fairview-ranger-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234793"
+    },
+    {
+      "id": "234426",
+      "name": "Garver Mountain Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/garver-mountain-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234426"
+    },
+    {
+      "id": "234434",
+      "name": "Gem Peak Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/gem-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234434"
+    },
+    {
+      "id": "234383",
+      "name": "McGuire Mountain Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/mcguire-mountain-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234383"
+    },
+    {
+      "id": "10103111",
+      "name": "Meadow Peak Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/meadow-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10103111"
+    },
+    {
+      "id": "250012",
+      "name": "Minton Peak Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/minton-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/250012"
+    },
+    {
+      "id": "234432",
+      "name": "Mt. Baldy-Buckhorn Ridge Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/mt-baldy-buckhorn-ridge-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234432"
+    },
+    {
+      "id": "234433",
+      "name": "Sex Peak Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/sex-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234433"
+    },
+    {
+      "id": "234388",
+      "name": "Upper Ford Ranger Station Cabin",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/upper-ford-ranger-station-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234388"
+    },
+    {
+      "id": "234384",
+      "name": "Webb Mountain Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/webb-mountain-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234384"
+    },
+    {
+      "id": "234387",
+      "name": "Yaak Mountain Lookout",
+      "forest": "Kootenai National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/yaak-mountain-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234387"
+    },
+    {
+      "id": "234421",
+      "name": "Bend Guard Station",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/bend-guard-station",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234421"
+    },
+    {
+      "id": "10110659",
+      "name": "Big Hole Lookout",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/big-hole-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/10110659"
+    },
+    {
+      "id": "234423",
+      "name": "Cougar Peak Lookout",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/cougar-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234423"
+    },
+    {
+      "id": "233240",
+      "name": "Double Arrow Lookout",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/double-arrow-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233240"
+    },
+    {
+      "id": "233337",
+      "name": "Hogback Homestead",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/hogback-homestead",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233337"
+    },
+    {
+      "id": "234506",
+      "name": "Monture Guard Station Cabin",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/monture-guard-station-cabin",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234506"
+    },
+    {
+      "id": "233336",
+      "name": "Morgan-Case Homestead",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/morgan-case-homestead",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/233336"
+    },
+    {
+      "id": "234412",
+      "name": "Savenac Bunkhouse",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-bunkhouse",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234412"
+    },
+    {
+      "id": "234420",
+      "name": "Savenac Cookhouse",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-cookhouse",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234420"
+    },
+    {
+      "id": "234419",
+      "name": "Savenac West Cottage",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-west-cottage",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234419"
+    },
+    {
+      "id": "234417",
+      "name": "Thompson Peak Lookout",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/thompson-peak-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234417"
+    },
+    {
+      "id": "234390",
+      "name": "Up Up 40-Foot Lookout Tower",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/40-foot-lookout-tower",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234390"
+    },
+    {
+      "id": "234389",
+      "name": "West Fork Butte Lookout",
+      "forest": "Lolo National Forest",
+      "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/west-fork-butte-lookout",
+      "recreation_url": "https://www.recreation.gov/camping/campgrounds/234389"
+    }
+  ],
+  "regions": [
+    {
+      "name": "Beaverhead-Deerlodge National Forest",
+      "campgrounds": [
+        {
+          "id": "234318",
+          "name": "Antone Station",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/antone-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234318"
+        },
+        {
+          "id": "234319",
+          "name": "Bear Creek Bunkhouse",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bear-creek-bunkhouse",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234319"
+        },
+        {
+          "id": "234320",
+          "name": "Bear Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bear-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234320"
+        },
+        {
+          "id": "234406",
+          "name": "Birch Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/birch-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234406"
+        },
+        {
+          "id": "234364",
+          "name": "Black Butte Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/black-butte-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234364"
+        },
+        {
+          "id": "234392",
+          "name": "Bloody Dick Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/bloody-dick-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234392"
+        },
+        {
+          "id": "234353",
+          "name": "Canyon Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/canyon-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234353"
+        },
+        {
+          "id": "234375",
+          "name": "Douglas Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/douglas-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234375"
+        },
+        {
+          "id": "234398",
+          "name": "Fleecer Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/fleecer-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234398"
+        },
+        {
+          "id": "234355",
+          "name": "Gordon Reese Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/gordon-reese-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234355"
+        },
+        {
+          "id": "234356",
+          "name": "Hells Canyon Guard Station",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/hells-canyon-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234356"
+        },
+        {
+          "id": "234397",
+          "name": "High Rye Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/high-rye-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234397"
+        },
+        {
+          "id": "234352",
+          "name": "Hogan Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/hogan-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234352"
+        },
+        {
+          "id": "234391",
+          "name": "Horse Prairie Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/horse-prairie-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234391"
+        },
+        {
+          "id": "234351",
+          "name": "May Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/may-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234351"
+        },
+        {
+          "id": "234373",
+          "name": "Moose Lake Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/moose-lake-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234373"
+        },
+        {
+          "id": "234377",
+          "name": "Racetrack Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/racetrack-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234377"
+        },
+        {
+          "id": "234378",
+          "name": "Stony Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/stony-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234378"
+        },
+        {
+          "id": "234350",
+          "name": "Twin Lakes Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/twin-lakes-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234350"
+        },
+        {
+          "id": "234322",
+          "name": "Wall Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/wall-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234322"
+        },
+        {
+          "id": "234372",
+          "name": "West Fork Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/west-fork-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234372"
+        },
+        {
+          "id": "234448",
+          "name": "West Fork of Rock Creek Cabin",
+          "forest": "Beaverhead-Deerlodge National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/beaverhead-deerlodge/recreation/west-fork-rock-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234448"
+        }
+      ]
+    },
+    {
+      "name": "Bitterroot National Forest",
+      "campgrounds": [
+        {
+          "id": "234278",
+          "name": "East Fork Cabin",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/east-fork-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234278"
+        },
+        {
+          "id": "234281",
+          "name": "Gird Point Lookout",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/gird-point-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234281"
+        },
+        {
+          "id": "234284",
+          "name": "Horse Heaven Cabin",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/horse-heaven-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234284"
+        },
+        {
+          "id": "10176101",
+          "name": "Lost Horse Guard Station",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/lost-horse-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10176101"
+        },
+        {
+          "id": "234301",
+          "name": "Magruder Ranger's House",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/magruder-rangers-house",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234301"
+        },
+        {
+          "id": "234292",
+          "name": "McCart Lookout",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/mccart-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234292"
+        },
+        {
+          "id": "234296",
+          "name": "Medicine Point Lookout",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/medicine-point-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234296"
+        },
+        {
+          "id": "234295",
+          "name": "Twogood Cabin",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/twogood-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234295"
+        },
+        {
+          "id": "234288",
+          "name": "Wood's Cabin",
+          "forest": "Bitterroot National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/bitterroot/recreation/woods-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234288"
+        }
+      ]
+    },
+    {
+      "name": "Custer Gallatin National Forest",
+      "campgrounds": [
+        {
+          "id": "234365",
+          "name": "Basin Station Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/basin-station-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234365"
+        },
+        {
+          "id": "234336",
+          "name": "Battle Ridge Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/battle-ridge-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234336"
+        },
+        {
+          "id": "234367",
+          "name": "Beaver Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/beaver-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234367"
+        },
+        {
+          "id": "234299",
+          "name": "Big Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/big-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234299"
+        },
+        {
+          "id": "234368",
+          "name": "Cabin Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/cabin-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234368"
+        },
+        {
+          "id": "234415",
+          "name": "Deer Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/deer-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234415"
+        },
+        {
+          "id": "234358",
+          "name": "Diamond Butte Lookout/Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/diamond-butte-lookoutcabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234358"
+        },
+        {
+          "id": "10192010",
+          "name": "Eldridge Guard Station",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/eldridge-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10192010"
+        },
+        {
+          "id": "234414",
+          "name": "Fourmile Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/fourmile-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234414"
+        },
+        {
+          "id": "234335",
+          "name": "Fox Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/fox-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234335"
+        },
+        {
+          "id": "234334",
+          "name": "Garnet Mountain Lookout",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/garnet-mountain-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234334"
+        },
+        {
+          "id": "234298",
+          "name": "Ibex Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/ibex-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234298"
+        },
+        {
+          "id": "234333",
+          "name": "Little Bear Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/little-bear-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234333"
+        },
+        {
+          "id": "234607",
+          "name": "Maxey Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/maxey-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234607"
+        },
+        {
+          "id": "234314",
+          "name": "Meyers Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/meyers-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234314"
+        },
+        {
+          "id": "234307",
+          "name": "Mill Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/mill-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234307"
+        },
+        {
+          "id": "234332",
+          "name": "Mystic Lake Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/mystic-lake-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234332"
+        },
+        {
+          "id": "234300",
+          "name": "Porcupine Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/porcupine-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234300"
+        },
+        {
+          "id": "10346418",
+          "name": "Sage Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/sage-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10346418"
+        },
+        {
+          "id": "234331",
+          "name": "Spanish Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/spanish-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234331"
+        },
+        {
+          "id": "234309",
+          "name": "Trail Creek Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/trail-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234309"
+        },
+        {
+          "id": "234366",
+          "name": "Wapiti Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/wapiti-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234366"
+        },
+        {
+          "id": "234410",
+          "name": "West Boulder Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/west-boulder-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234410"
+        },
+        {
+          "id": "234413",
+          "name": "West Bridger Station",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/west-bridger-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234413"
+        },
+        {
+          "id": "234359",
+          "name": "Whitetail Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/whitetail-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234359"
+        },
+        {
+          "id": "234328",
+          "name": "Window Rock Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/window-rock-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234328"
+        },
+        {
+          "id": "234327",
+          "name": "Windy Pass Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/windy-pass-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234327"
+        },
+        {
+          "id": "234326",
+          "name": "Yellow Mule Cabin",
+          "forest": "Custer Gallatin National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/custergallatin/recreation/yellow-mule-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234326"
+        }
+      ]
+    },
+    {
+      "name": "Flathead National Forest",
+      "campgrounds": [
+        {
+          "id": "253198",
+          "name": "Anna Creek Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/anna-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/253198"
+        },
+        {
+          "id": "234342",
+          "name": "Ben Rover Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ben-rover-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234342"
+        },
+        {
+          "id": "234340",
+          "name": "Challenge Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/challenge-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234340"
+        },
+        {
+          "id": "234337",
+          "name": "Ford Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ford-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234337"
+        },
+        {
+          "id": "234341",
+          "name": "Hornet Lookout Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/hornet-lookout-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234341"
+        },
+        {
+          "id": "234360",
+          "name": "Mission Lookout Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/mission-lookout-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234360"
+        },
+        {
+          "id": "234339",
+          "name": "Ninko Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/ninko-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234339"
+        },
+        {
+          "id": "233271",
+          "name": "Old Condon Ranger Station",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/old-condon-ranger-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233271"
+        },
+        {
+          "id": "234379",
+          "name": "Owl Creek Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/owl-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234379"
+        },
+        {
+          "id": "234343",
+          "name": "Schnaus Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/schnaus-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234343"
+        },
+        {
+          "id": "233203",
+          "name": "Silvertip Cabin Rental Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/silvertip-cabin-rental-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233203"
+        },
+        {
+          "id": "234345",
+          "name": "Star Meadow Guard Station Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/star-meadow-guard-station-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234345"
+        },
+        {
+          "id": "233272",
+          "name": "Swan Guard Station",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/swan-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233272"
+        },
+        {
+          "id": "234511",
+          "name": "Wurtz Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/wurtz-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234511"
+        },
+        {
+          "id": "234338",
+          "name": "Zip's Place Cabin",
+          "forest": "Flathead National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/flathead/recreation/zips-place-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234338"
+        }
+      ]
+    },
+    {
+      "name": "Helena-Lewis and Clark National Forest",
+      "campgrounds": [
+        {
+          "id": "234567",
+          "name": "Bar Gulch Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/bar-gulch-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234567"
+        },
+        {
+          "id": "234409",
+          "name": "Calf Creek Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/calf-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234409"
+        },
+        {
+          "id": "234422",
+          "name": "Crystal Lake Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/crystal-lake-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234422"
+        },
+        {
+          "id": "234453",
+          "name": "Cummings Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/cummings-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234453"
+        },
+        {
+          "id": "234425",
+          "name": "Dry Wolf Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/dry-wolf-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234425"
+        },
+        {
+          "id": "234568",
+          "name": "Eagle Guard Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/eagle-guard-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234568"
+        },
+        {
+          "id": "10214301",
+          "name": "Ear Mountain Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/ear-mountain-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10214301"
+        },
+        {
+          "id": "234416",
+          "name": "Hunters Spring Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/hunters-spring-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234416"
+        },
+        {
+          "id": "234451",
+          "name": "Indian Flats Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/indian-flats-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234451"
+        },
+        {
+          "id": "234427",
+          "name": "Judith Guard Station Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/judith-guard-station-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234427"
+        },
+        {
+          "id": "234449",
+          "name": "Kading Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kading-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234449"
+        },
+        {
+          "id": "233229",
+          "name": "Kenck Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kenck-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233229"
+        },
+        {
+          "id": "234431",
+          "name": "Kings Hill Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/kings-hill-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234431"
+        },
+        {
+          "id": "234428",
+          "name": "Monument Peak Lookout",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/monument-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234428"
+        },
+        {
+          "id": "233151",
+          "name": "Moose Creek Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/moose-creek-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233151"
+        },
+        {
+          "id": "234565",
+          "name": "Rillway Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/rillway-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234565"
+        },
+        {
+          "id": "234566",
+          "name": "Thompson Guard Station",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/thompson-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234566"
+        },
+        {
+          "id": "234418",
+          "name": "West Fork Cabin",
+          "forest": "Helena-Lewis and Clark National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/helena-lewisclark/recreation/west-fork-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234418"
+        }
+      ]
+    },
+    {
+      "name": "Kootenai National Forest",
+      "campgrounds": [
+        {
+          "id": "234399",
+          "name": "Big Creek Baldy Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/big-creek-baldy-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234399"
+        },
+        {
+          "id": "234793",
+          "name": "Fairview Ranger Station",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/fairview-ranger-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234793"
+        },
+        {
+          "id": "234426",
+          "name": "Garver Mountain Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/garver-mountain-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234426"
+        },
+        {
+          "id": "234434",
+          "name": "Gem Peak Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/gem-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234434"
+        },
+        {
+          "id": "234383",
+          "name": "McGuire Mountain Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/mcguire-mountain-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234383"
+        },
+        {
+          "id": "10103111",
+          "name": "Meadow Peak Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/meadow-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10103111"
+        },
+        {
+          "id": "250012",
+          "name": "Minton Peak Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/minton-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/250012"
+        },
+        {
+          "id": "234432",
+          "name": "Mt. Baldy-Buckhorn Ridge Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/mt-baldy-buckhorn-ridge-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234432"
+        },
+        {
+          "id": "234433",
+          "name": "Sex Peak Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/sex-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234433"
+        },
+        {
+          "id": "234388",
+          "name": "Upper Ford Ranger Station Cabin",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/upper-ford-ranger-station-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234388"
+        },
+        {
+          "id": "234384",
+          "name": "Webb Mountain Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/webb-mountain-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234384"
+        },
+        {
+          "id": "234387",
+          "name": "Yaak Mountain Lookout",
+          "forest": "Kootenai National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/kootenai/recreation/yaak-mountain-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234387"
+        }
+      ]
+    },
+    {
+      "name": "Lolo National Forest",
+      "campgrounds": [
+        {
+          "id": "234421",
+          "name": "Bend Guard Station",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/bend-guard-station",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234421"
+        },
+        {
+          "id": "10110659",
+          "name": "Big Hole Lookout",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/big-hole-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/10110659"
+        },
+        {
+          "id": "234423",
+          "name": "Cougar Peak Lookout",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/cougar-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234423"
+        },
+        {
+          "id": "233240",
+          "name": "Double Arrow Lookout",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/double-arrow-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233240"
+        },
+        {
+          "id": "233337",
+          "name": "Hogback Homestead",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/hogback-homestead",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233337"
+        },
+        {
+          "id": "234506",
+          "name": "Monture Guard Station Cabin",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/monture-guard-station-cabin",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234506"
+        },
+        {
+          "id": "233336",
+          "name": "Morgan-Case Homestead",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/morgan-case-homestead",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/233336"
+        },
+        {
+          "id": "234412",
+          "name": "Savenac Bunkhouse",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-bunkhouse",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234412"
+        },
+        {
+          "id": "234420",
+          "name": "Savenac Cookhouse",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-cookhouse",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234420"
+        },
+        {
+          "id": "234419",
+          "name": "Savenac West Cottage",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/savenac-west-cottage",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234419"
+        },
+        {
+          "id": "234417",
+          "name": "Thompson Peak Lookout",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/thompson-peak-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234417"
+        },
+        {
+          "id": "234390",
+          "name": "Up Up 40-Foot Lookout Tower",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/40-foot-lookout-tower",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234390"
+        },
+        {
+          "id": "234389",
+          "name": "West Fork Butte Lookout",
+          "forest": "Lolo National Forest",
+          "detail_url": "https://www.fs.usda.gov/r01/lolo/recreation/west-fork-butte-lookout",
+          "recreation_url": "https://www.recreation.gov/camping/campgrounds/234389"
+        }
+      ]
+    }
+  ]
+}
